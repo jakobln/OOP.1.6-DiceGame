@@ -1,0 +1,11 @@
+C:\Code\OOP.1.6 - DiceGame\bin\Debug\netcoreapp3.1\DiceGame.exe
+C:\Code\OOP.1.6 - DiceGame\bin\Debug\netcoreapp3.1\DiceGame.deps.json
+C:\Code\OOP.1.6 - DiceGame\bin\Debug\netcoreapp3.1\DiceGame.runtimeconfig.json
+C:\Code\OOP.1.6 - DiceGame\bin\Debug\netcoreapp3.1\DiceGame.runtimeconfig.dev.json
+C:\Code\OOP.1.6 - DiceGame\bin\Debug\netcoreapp3.1\DiceGame.dll
+C:\Code\OOP.1.6 - DiceGame\bin\Debug\netcoreapp3.1\DiceGame.pdb
+C:\Code\OOP.1.6 - DiceGame\obj\Debug\netcoreapp3.1\DiceGame.csprojAssemblyReference.cache
+C:\Code\OOP.1.6 - DiceGame\obj\Debug\netcoreapp3.1\DiceGame.AssemblyInfoInputs.cache
+C:\Code\OOP.1.6 - DiceGame\obj\Debug\netcoreapp3.1\DiceGame.AssemblyInfo.cs
+C:\Code\OOP.1.6 - DiceGame\obj\Debug\netcoreapp3.1\DiceGame.dll
+C:\Code\OOP.1.6 - DiceGame\obj\Debug\netcoreapp3.1\DiceGame.pdb
